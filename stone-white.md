@@ -25,3 +25,7 @@ He was the lynchpin of the Dronecode efforts to translate PX4 and QGroundControl
 His contribution cannot be underestimated: not only did he personally translate a huge amount, but he also built a team of other like-minded Chinese translators.
 
 My sincere condolences to his family.
+
+## Julian Oes
+
+Stone did amazing work bridging the PX4 community with drone friends and communities in China. I met him at the PX4 summit in Zurich and was amazed how he was so curious and eager to learn more about how we study and work over here. He had questions about how we approached programming, and how we interacted with the community, and how he could help his Chinese friends with that, and enable them. He was full of ideas, and so excited about the future! And he was always so humble and nice, I will miss him! So long.
